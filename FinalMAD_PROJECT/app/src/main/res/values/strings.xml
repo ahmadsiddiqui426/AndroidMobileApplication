@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalMAD_PROJECT</string>
+    <string name="splash_text" />
+    <string name="channel_name" />
+    <string name="channel_description" />
+    <string name="default_notification_channel_id" translatable="false">channel_id</string>
+
+</resources>
